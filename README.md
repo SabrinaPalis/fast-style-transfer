@@ -6,7 +6,7 @@ Neural Style Transfer algorithms make use of deep neural networks to perform the
 
 I used it to style some photographs of the lovely ちぃちゃん :dog2: in the style of Leonid Afremov and Hokusai. 
 
-Feel free to check out my Jupyter Notebook and html report. 
+Feel free to check out my Jupyter Notebook and html report, or if you prefer, read my [blog post](https://sabrinapalis.github.io/Style-Transfer/) about it. 
 
 :arrow_down_small: Please find the original README file below the pictures. :arrow_down_small: 
 

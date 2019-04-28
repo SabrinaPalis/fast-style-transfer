@@ -1,3 +1,33 @@
+## Fast Style Transfer with Udacity Using the fast-style-transfer GitHub repo by Logan Lengstrom
+
+Neural Style Transfer algorithms make use of deep neural networks to perform the image transformation, such as creating artificial artwork from photographs, by transferring the style of famous paintings to photographs.
+
+:trophy: After graduating with the [Deep Learning Nanodegree](https://confirm.udacity.com/UR76TRQ9) program at Udacity, I thought I would share this fun project which uses the fast-style-transfer GitHub repo by Logan Lengstrom, and the Rain Princess and Wave Checkpoints.
+
+I used it to style some photographs of the lovely ちぃちゃん :dog2: in the style of Leonid Afremov and Hokusai. Feel free to check out my Jupyter Notebook and html report. Please find the original README file below the pictures. 
+
+
+![alt text](akita.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 Add styles from famous paintings to any photo in a fraction of a second! [You can even style videos!](#video-stylization)

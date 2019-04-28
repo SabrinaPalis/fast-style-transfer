@@ -9,7 +9,7 @@ I used it to style some photographs of the lovely ちぃちゃん :dog2: in the 
 
 
 
-<img src="akita.jpg" width="600">
+<img src="akita.jpg" width="300"> <img src="RAIN-PRINCESS.jpg" width="300">
 
 
 

@@ -6,29 +6,15 @@ Neural Style Transfer algorithms make use of deep neural networks to perform the
 
 I used it to style some photographs of the lovely ちぃちゃん :dog2: in the style of Leonid Afremov and Hokusai. Feel free to check out my Jupyter Notebook and html report. Please find the original README file below the pictures. 
 
+## Before and after 
+
+<img src="akita.jpg" width="250"> <img src="RAIN-PRINCESS.jpg" width="250"> <img src="akitaPrincess" width="250">
 
 
-
-<img src="akita.jpg" width="300"> <img src="RAIN-PRINCESS.jpg" width="300">
-
+<img src="akitab.jpg" width="250"> <img src="Tsunami_by_hokusai_19th_century.jpg" width="250"> <img src="akitaHokusai" width="250">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)

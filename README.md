@@ -4,7 +4,11 @@ Neural Style Transfer algorithms make use of deep neural networks to perform the
 
 :trophy: After graduating with the [Deep Learning Nanodegree](https://confirm.udacity.com/UR76TRQ9) program at Udacity, I thought I would share this fun project which uses the fast-style-transfer GitHub repo by Logan Lengstrom, and the Rain Princess and Wave Checkpoints.
 
-I used it to style some photographs of the lovely ちぃちゃん :dog2: in the style of Leonid Afremov and Hokusai. Feel free to check out my Jupyter Notebook and html report. Please find the original README file below the pictures. 
+I used it to style some photographs of the lovely ちぃちゃん :dog2: in the style of Leonid Afremov and Hokusai. 
+
+Feel free to check out my Jupyter Notebook and html report. 
+
+:arrow_down_small: Please find the original README file below the pictures. :arrow_down_small: 
 
 ## Before and after 
 

@@ -9,6 +9,9 @@ I used it to style some photographs of the lovely ちぃちゃん :dog2: in the 
 
 ![alt text](akita.jpg)
 
+<img src="akita.jpg" width="600">
+
+
 
 
 

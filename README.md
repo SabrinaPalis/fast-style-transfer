@@ -8,10 +8,10 @@ I used it to style some photographs of the lovely ちぃちゃん :dog2: in the 
 
 ## Before and after 
 
-<img src="akita.jpg" width="250"> <img src="RAIN-PRINCESS.jpg" width="250"> <img src="akitaPrincess" width="250">
+<img src="akita.jpg" width="250"> <img src="RAIN-PRINCESS.jpg" width="250"> <img src="akitaPrincess.png" width="250">
 
 
-<img src="akitab.jpg" width="250"> <img src="Tsunami_by_hokusai_19th_century.jpg" width="250"> <img src="akitaHokusai" width="250">
+<img src="akitab.jpg" width="250"> <img src="Tsunami_by_hokusai_19th_century.jpg" width="250"> <img src="akitaHokusai.png" width="250">
 
 
 ---
